@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+}
+#leftDiv{
+  width: 50%;
+  height: 100vh;
+  margin: 0;
+
+}
+#rightDiv{
+  position: absolute;
+  left: 50%;
+  width: 50%;
+}
+#scene3d1 {
+  position: relative;
+  top: 50%;
+	width: 50%;
+	height: 50%;
+	background: red;
+}
+#scene3d2 {
+  position: relative;
+  left: 50%;
+
+	width: 50%;
+	height: 50vh;
+	background: red;
+}
+#scene3d3 {
+  position: relative;
+  left: 50%;
+
+	width: 50%;
+	height: 50vh;
+	background: red;
+}
+#canvas1{
+  width: 40%;
+  height: 40%;
+}
+#canvas2{
+  width: 20%;
+  height: 20%;
+}
+
+#canvas3{
+  width: 20%;
+  height: 20%;
+}
